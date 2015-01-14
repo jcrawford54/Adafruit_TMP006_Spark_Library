@@ -1,7 +1,7 @@
 {
-  "name": "uber-library-example",
-  "author": "Joe Goggins <joe@spark.io>",
-  "license": "MIT",
+  "name": "Adafruit-TMP006-Library",
+  "author": "James Crawford",
+  "license": "None",
   "version": "0.0.10",
-  "description": "A simple library that illustrates coding conventions of a Spark Library"
+  "description": "A Library for use with the Adafruit TMP006 temperature sensor"
 }
