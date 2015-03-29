@@ -20,7 +20,7 @@
 // SCL connects to the I2C clock pin. On newer boards this is labeled with SCL
 // otherwise, on the Uno, this is A5 on the Mega it is 21 and on the Leonardo/Micro digital 3
 // SDA connects to the I2C data pin. On newer boards this is labeled with SDA
-// otherwise, on the Uno, this is A4 on the Mega it is 20 and on the Leonardo/Micro digital 2
+// otherwise, on the Uno, this is A4 on the Mega it is 20 and on the Leonardo/Micro digital 2 
 
 Adafruit_TMP006 tmp006;
 //Adafruit_TMP006 tmp006(0x41);  // start with a diferent i2c address!
